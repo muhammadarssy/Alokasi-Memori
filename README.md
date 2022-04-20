@@ -2,7 +2,7 @@
 - Memori adalah perangkat keras yang digunakan untuk menyimpan informasi secara temporer atau permanen.
 - Proses adalah program yang sedang dieksekusi. Proses biasanya terdiri dari process stack, yang memuat data temporer seperti parameter fungsi, return address, dan variable lokal.
 - Alokasi memori yang akan dibicarakan adalah alokasi memori secara kontigu. Pada alokasi memori kontigu, setiap proses disimpan pada suatu bagian yang berlokasi bersebelahan dengan proses lainnya. Salah satu metode yang cukup sering digunakan dalam alokasi memori adalah membagi memori ke partisi-partisi yang mempunyai ukuran yang berbeda-beda (variable-partition). 
-![image](https://user-images.githubusercontent.com/87927396/164263160-13c9f25d-d9c9-4a92-8a6e-c3e8dd41b6cc.png)
+- ![image](https://user-images.githubusercontent.com/87927396/164263160-13c9f25d-d9c9-4a92-8a6e-c3e8dd41b6cc.png)
 
 # Solusi Alokasi Memori
 - First Fit
